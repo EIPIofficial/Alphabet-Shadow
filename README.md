@@ -1,8 +1,4 @@
-# Shadow Mode ASCII Art Generator
-
-Convert text to gradient-colored ASCII art in terminal.
-
-![Demo](demo.png)
+![Alphabet-Shadow](title.png)
 
 ## Quick Start
 
