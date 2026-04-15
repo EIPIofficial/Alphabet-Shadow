@@ -41,12 +41,4 @@ g++ -std=c++17 -o shadow_mode shadow_mode.cpp
 
 - Letters: `a-z`
 - Numbers: `0-9`
-- Symbols: `!_+-=[]|':"./\|` 
-
-## Examples
-
-```bash
-./shadow_mode "hello world"
-./shadow_mode -c "error: file not found!"
-./shadow_mode -b --start '#FFD700' --end '#FF4500' "warning"
-```
+- Symbols: `!_+-=[]|':"./\|`
